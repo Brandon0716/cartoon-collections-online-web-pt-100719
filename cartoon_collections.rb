@@ -3,6 +3,7 @@ def roll_call_dwarves(snow)
   
   while b < snow.length 
   yield (snow [b])
+  snow.each_with_index
   b += 1 
 end
 snow
