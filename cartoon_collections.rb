@@ -2,7 +2,7 @@ def roll_call_dwarves(snow)
   b = 0
  
   while b < snow.length 
-  puts "#{b + 1}. #{array[b]}"
+  puts "#{b + 1}. #{snow[b]}"
   b += 1 
  end
 end
