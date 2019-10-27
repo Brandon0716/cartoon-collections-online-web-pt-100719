@@ -8,7 +8,13 @@ def roll_call_dwarves(snow)
 end
 
 def summon_captain_planet(leah)
-  
+  har = []
+  i = 0 
+  while i < leah.length 
+    har << leah[i].capitalize + "!"
+    i += 1 
+  end 
+  har
 end
 
 def long_planeteer_calls# code an argument here
