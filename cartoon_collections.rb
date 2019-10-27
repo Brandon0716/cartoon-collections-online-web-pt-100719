@@ -1,7 +1,7 @@
 def roll_call_dwarves(snow)
   b = 0
   
-  while 
+  while b < 
 end
 
 def summon_captain_planet# code an argument here
