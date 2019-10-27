@@ -1,4 +1,5 @@
 def roll_call_dwarves(snow)
+  b = 0
   
 end
 
