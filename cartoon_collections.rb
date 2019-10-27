@@ -1,5 +1,6 @@
 def roll_call_dwarves(snow)
   b = 0
+  
   name = []
   while b < snow.length 
   name << yield(snow [b])
