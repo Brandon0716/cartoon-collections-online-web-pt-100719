@@ -5,8 +5,6 @@ def roll_call_dwarves(snow)
   yield (snow [b])
   b += 1 
 end
-snow
-end
 
 def summon_captain_planet# code an argument here
   # Your code here
