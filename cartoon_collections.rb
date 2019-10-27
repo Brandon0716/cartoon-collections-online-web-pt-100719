@@ -4,8 +4,7 @@ def roll_call_dwarves(snow)
   while b < snow.length 
   puts "#{b + 1}. #{array[b]}"
   b += 1 
-end
-snow
+ end
 end
 
 def summon_captain_planet# code an argument here
